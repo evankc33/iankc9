@@ -14,7 +14,7 @@
 &nbsp;&nbsp;
 <a href="https://github.com/iankc9"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/github.svg" height="25" /></a>
 &nbsp;&nbsp;
-<a href="mailto:[iankc9@gmail.com]"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="20" /></a>
+<a href="mailto:iankc9@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="20" /></a>
 
 ## 🛠️ Tech Stack
 
